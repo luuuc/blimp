@@ -9,6 +9,9 @@ require 'database_cleaner'
 require 'shoulda/matchers'
 require 'faker'
 
+require 'codeclimate-test-reporter'
+CodeClimate::TestReporter.start
+
 require 'simplecov'
 SimpleCov.start 'rails'
 
