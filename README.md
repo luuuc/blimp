@@ -1,24 +1,36 @@
-## README
+## Blimp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An open source messaging app for teams developed with alpha versions of Rails 5 & Actioncable for fun :-)
 
-Things you may want to cover:
+# Requirements
 
-* Ruby version
+TODO: Write requirements here
 
-* System dependencies
 
-* Configuration
+# Installation
 
-* Database creation
+TODO: Write install instructions here
 
-* Database initialization
 
-* How to run the test suite
+# Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+TODO: Write usage instructions here
 
-* Deployment instructions
 
-* ...
+# Contributing
+
+Fork it ( https://github.com/[my-github-username]/blimp/fork )
+Create your feature branch (git checkout -b my-new-feature)
+Commit your changes (git commit -am 'Add some feature')
+Push to the branch (git push origin my-new-feature)
+Create a new Pull Request
+
+# Code Status
+
+[![Code Climate](https://codeclimate.com/github/luuuc/blimp/badges/gpa.svg)](https://codeclimate.com/github/luuuc/blimp)
+[![Test Coverage](https://codeclimate.com/github/luuuc/blimp/badges/coverage.svg)](https://codeclimate.com/github/luuuc/blimp)
+[![Dependency Status](https://gemnasium.com/luuuc/blimp.svg)](https://gemnasium.com/luuuc/blimp)
+
+# License
+
+Blimp is released under the [MIT License](http://www.opensource.org/licenses/MIT).
