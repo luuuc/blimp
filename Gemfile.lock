@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c2c7cea13ae8b5eb2e96b194cc9c141784ea1f36
+  revision: cd2c0adb8aad6fef44025ea97f67cb9e21e52dcf
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -357,7 +357,7 @@ DEPENDENCIES
   database_cleaner
   factory_girl_rails
   faker
-  friendly_id
+  friendly_id (~> 5.1.0)
   jquery-rails
   overcommit
   pg
@@ -366,7 +366,7 @@ DEPENDENCIES
   rails-erd
   rails_best_practices
   rspec-collection_matchers
-  rspec-rails
+  rspec-rails (~> 3.0)
   rubocop
   rubocop-rspec
   rubycritic

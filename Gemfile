@@ -14,7 +14,7 @@ gem 'jquery-rails'
 gem 'turbolinks', github: "rails/turbolinks"
 
 gem 'bcrypt', '~> 3.1.7'
-gem 'friendly_id'
+gem 'friendly_id', '~> 5.1.0'
 
 group :development do
   gem 'spring' # https://github.com/rails/spring
@@ -33,7 +33,7 @@ group :development, :test do
   gem 'byebug' # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'rubocop', require: false
   gem 'sandi_meter'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 3.0'
   gem 'rubocop-rspec'
   gem 'factory_girl_rails'
 end

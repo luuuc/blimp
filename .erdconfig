@@ -1,0 +1,7 @@
+attributes:
+  - foreign_keys
+  - primary_keys
+  - inheritance
+  - content
+inheritance: true
+polymorphism: true
